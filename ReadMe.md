@@ -4,6 +4,10 @@
 
 This project is a personal exploration into the inner workings of a Generative AI (GenAI) assistant. The goal is to understand how AI models like ChatGPT function, from handling training data to running code-level operations. By developing this assistant, I aim to gain hands-on experience in machine learning, natural language processing, and AI development practices.
 
+
+https://github.com/user-attachments/assets/ba3e4687-405f-44b9-b79b-1958ea85d72a
+
+
 ### Project Goals
 
 - Understand the foundational principles of machine learning and AI technology.
